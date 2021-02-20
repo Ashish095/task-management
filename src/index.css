@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li {
+  text-align: left;
+}
+
+button {
+  margin-right: 4;
+}
+
+input {
+  margin-right: 4;
+}
